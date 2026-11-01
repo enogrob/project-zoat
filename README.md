@@ -28,7 +28,7 @@ The project explores a reusable semantic foundation across different subject are
 
 ## Visual labels
 
-The diagram symbols below are **editorial choices used in this public README**, not a verified official mapping supplied by `zoat-lang`. A canonical visual vocabulary has not been established by the currently inspected skill material. Their labels and conceptual meanings remain authoritative regardless of the pictograms shown.
+The diagrams follow the functional concept identities in [`zoat-visual-mermaid`](https://github.com/enogrob/project-skills/blob/main/skills/zoat-visual-mermaid/SKILL.md#emoji--concept-identity) and [`zoat-visual-text`](https://github.com/enogrob/project-skills/blob/main/skills/zoat-visual-text/SKILL.md#emoji--concept-identity). Icons are editorial identifiers rather than ZOAT syntax or implementation guarantees. In particular, 📥 Implicate and 📤 Explicate are distinct movements, and 🌀 is reserved for COSMOS/Cosmic Cycles rather than Implicate.
 
 ## Concepts Map
 
@@ -39,11 +39,11 @@ The diagram describes **conceptual relationships**, not a parser pipeline, auton
 flowchart TD
     I(["🎯 Intention"]):::context
     U(["🧠 Evolving Understanding"]):::understanding
-    Z(["✦ ZOAT · AI-Native Language"]):::core
-    C(["⚖️ REFLECT · Semantic Coherence"]):::understanding
+    Z(["🟢 ZOAT · AI-Native Language"]):::core
+    C(["⚖️ Semantic Judgment / Coherence"]):::understanding
     K(["📚 Knowledge Reuse"]):::context
     D(["🧩 Extensible Domain Languages"]):::projection
-    R(["✨ Coherent Realization"]):::projection
+    R(["⚡ Coherent Realization"]):::projection
     I -->|orients| Z
     U <-->|refines| Z
     Z -->|seeks| C
@@ -78,12 +78,12 @@ These are **design characteristics and research directions**, not a claim that a
 %%{init: {"theme":"base","themeVariables":{"fontSize":"13px"},"flowchart":{"wrappingWidth":200,"minNodeWidth":0,"padding":8}}}%%
 flowchart TD
     P(["🎯 IOP · Intent-Oriented Programming"]):::context
-    Z(["✦ ZOAT · AI-Native Language"]):::core
-    H(["🌊 HOLOFLUX · relational unfolding"]):::relational
-    U(["🌀 IMPLICATE · contextual understanding"]):::understanding
-    E(["✨ EXPLICATE · inspectable realization"]):::projection
-    CY(["🔄 Cosmic Cycles · optional movement guidance"])
-    RF(["⚖️ REFLECT · discernment and coherence"]):::guidance
+    Z(["🟢 ZOAT · AI-Native Language"]):::core
+    H(["🔴 HOLOFLUX · relational unfolding"]):::relational
+    U(["📥 IMPLICATE · contextual understanding"]):::understanding
+    E(["📤 EXPLICATE · inspectable realization"]):::projection
+    CY(["🌀 Cosmic Cycles · optional movement guidance"])
+    RF(["⚖️ Judgment · discernment and coherence"]):::guidance
     P -->|paradigm| Z
     Z -->|expresses| U
     U -->|coherent expression| E
