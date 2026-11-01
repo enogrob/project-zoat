@@ -109,7 +109,12 @@ ZOAT is an **experimental semantic language project**. This public overview pres
 
 ## References
 
-**Conceptual foundations:** ZOAT draws inspiration from David Bohm's [*Wholeness and the Implicate Order* (1980)](https://www.routledge.com/Wholeness-and-the-Implicate-Order/Bohm/p/book/9780415289795) and from mathematical archetypes of nature—recurring patterns, symmetry, proportion, and relational structures. These influences inform the project's public perspective on wholeness and coherent meaning, without specifying internal algorithms or implementation mechanisms.
+| Wholeness & unfolding | Mathematical patterns in nature |
+| :--- | :--- |
+| **David Bohm** · [*Wholeness and the Implicate Order* (1980)](https://www.routledge.com/Wholeness-and-the-Implicate-Order/Bohm/p/book/9780415289795) | **Michael S. Schneider** · [*A Beginner's Guide to Constructing the Universe* (1994)](https://books.google.com.br/books/about/A_Beginner_s_Guide_to_Constructing_the_U.html?id=3JwMAwAAQBAJ) |
+| Wholeness, interconnectedness, and the conceptual relationship between implicate and explicate order. | Mathematical archetypes, natural patterns, symmetry, geometry, and proportion. |
+
+**Conceptual relationship:** These are complementary intellectual inspirations for HOLOFLUX's relational perspective and ZOAT's exploration of coherent semantic expression—not evidence of technical implementation or scientific validation.
 
 - [Project HOLOFLUX — public conceptual foundation](https://github.com/enogrob/project-holoflux)
 - [ZOAT public repository](https://github.com/enogrob/project-zoat)
