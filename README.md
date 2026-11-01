@@ -28,19 +28,22 @@ The project explores a reusable semantic foundation across different subject are
 
 ## Semantic Visual Conventions
 
-The diagrams use a **consistent public-facing icon vocabulary**, aligned by meaning across both figures. These icons are editorial labels, **not a formally defined token set or parser syntax in `zoat-lang`**.
+The symbols below follow the documentation vocabulary in [`zoat-lang`](https://github.com/enogrob/project-skills/tree/main/skills/zoat-lang). They are **visual labels**, not executable language tokens or implementation claims.
 
-| Icon | Meaning |
+| Symbol | Concept |
 | --- | --- |
-| 🎯 | Intention |
-| 🧠 | Understanding |
-| ✦ | ZOAT language |
-| 🌊 | HOLOFLUX relational unfolding |
-| 🔄 | Cosmic Cycles movement guidance |
-| 📚 | Knowledge reuse / sources |
-| 🧩 | Domain languages |
-| ✨ | Realization / expression |
-| ⚖️ | Coherence / reflection |
+| ✦ | ZOAT — AI-Native Language |
+| 🌊 | HOLOFLUX — relational unfolding |
+| 🎯 | INTENTION — purpose and direction |
+| 🌀 | IMPLICATE — contextual meaning and relations |
+| ✨ | EXPLICATE — inspectable expression |
+| ⚖️ | REFLECT — discernment and coherence |
+| 🧠 | UNDERSTAND — qualified understanding |
+| 🔎 | DEEP UNDERSTAND — bounded inquiry |
+| 🔄 | COSMIC CYCLES — optional movement guidance |
+| 📚 | KNOWLEDGE REUSE — context and sources |
+| 🧩 | DOMAIN LANGUAGES — specialization |
+| 💬 | INTERACTIVE MODE — conversational refinement |
 
 ## Concepts Map
 
@@ -52,7 +55,7 @@ flowchart TD
     I(["🎯 Intention"]):::context
     U(["🧠 Evolving Understanding"]):::understanding
     Z(["✦ ZOAT · AI-Native Language"]):::core
-    C(["⚖️ Semantic Coherence"]):::understanding
+    C(["⚖️ REFLECT · Semantic Coherence"]):::understanding
     K(["📚 Knowledge Reuse"]):::context
     D(["🧩 Extensible Domain Languages"]):::projection
     R(["✨ Coherent Realization"]):::projection
@@ -92,9 +95,10 @@ flowchart TD
     P(["🎯 IOP · Intent-Oriented Programming"]):::context
     Z(["✦ ZOAT · AI-Native Language"]):::core
     H(["🌊 HOLOFLUX · relational unfolding"]):::relational
-    U(["🧠 Implicit / contextual understanding"]):::understanding
-    E(["✨ Explicit / inspectable realization"]):::projection
-    CY(["🔄 Cosmic Cycles · optional movement guidance"]):::guidance
+    U(["🌀 IMPLICATE · contextual understanding"]):::understanding
+    E(["✨ EXPLICATE · inspectable realization"]):::projection
+    CY(["🔄 Cosmic Cycles · optional movement guidance"])
+    RF(["⚖️ REFLECT · discernment and coherence"]):::guidance
     P -->|paradigm| Z
     Z -->|expresses| U
     U -->|coherent expression| E
@@ -102,7 +106,8 @@ flowchart TD
     H -.->|unfolding of meaning| E
     CY -.->|guides understanding| U
     CY -.->|guides realization and reflection| E
-    E -.->|qualified feedback| U
+    E --> RF
+    RF -.->|qualified feedback when justified| U
     classDef context fill:#D9EAF7,stroke:#7AA6C2,color:#3E342C
     classDef understanding fill:#DCEFD6,stroke:#86A878,color:#3E342C
     classDef core fill:#E3D1F2,stroke:#8050A1,color:#3E342C
