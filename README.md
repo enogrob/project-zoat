@@ -26,6 +26,22 @@ ZOAT places **intention at the center** of a semantic approach to AI-native work
 
 The project explores a reusable semantic foundation across different subject areas; its public presentation emphasizes outcomes and interpretability rather than execution internals.
 
+## Semantic Visual Conventions
+
+The diagrams use a **consistent public-facing icon vocabulary**, aligned by meaning across both figures. These icons are editorial labels, **not a formally defined token set or parser syntax in `zoat-lang`**.
+
+| Icon | Meaning |
+| --- | --- |
+| 🎯 | Intention |
+| 🧠 | Understanding |
+| ✦ | ZOAT language |
+| 🌊 | HOLOFLUX relational unfolding |
+| 🔄 | Cosmic Cycles movement guidance |
+| 📚 | Knowledge reuse / sources |
+| 🧩 | Domain languages |
+| ✨ | Realization / expression |
+| ⚖️ | Coherence / reflection |
+
 ## Concepts Map
 
 The diagram describes **conceptual relationships**, not a parser pipeline, autonomous agent architecture, or completed runtime.
@@ -73,11 +89,11 @@ These are **design characteristics and research directions**, not a claim that a
 ```mermaid
 %%{init: {"theme":"base","themeVariables":{"fontSize":"13px"},"flowchart":{"wrappingWidth":200,"minNodeWidth":0,"padding":8}}}%%
 flowchart TD
-    P(["🧭 IOP · Intent-Oriented Programming"]):::context
-    Z(["✦ ZOAT · semantic language"]):::core
+    P(["🎯 IOP · Intent-Oriented Programming"]):::context
+    Z(["✦ ZOAT · AI-Native Language"]):::core
     H(["🌊 HOLOFLUX · relational unfolding"]):::relational
     U(["🧠 Implicit / contextual understanding"]):::understanding
-    E(["✨ Explicit / inspectable expression"]):::projection
+    E(["✨ Explicit / inspectable realization"]):::projection
     CY(["🔄 Cosmic Cycles · optional movement guidance"]):::guidance
     P -->|paradigm| Z
     Z -->|expresses| U
@@ -110,7 +126,7 @@ The relationships are conceptual. No diagram should be interpreted as proof of a
 
 ## Visual Identity
 
-The ZOAT presentation uses the **HOLOFLUX-inspired visual language** of luminous, interrelated flows. The corresponding ZOAT infographic is maintained as a separate original image asset and should be included here once published to the repository; this README deliberately avoids a broken image link.
+The ZOAT presentation uses the **HOLOFLUX-inspired visual language** of luminous, interrelated flows. The selected cover artwork is `infograph-zoat.webp`. Once the binary asset is successfully committed at `images/infograph-zoat.webp`, add its verified link as the README cover. The image currently contains the older footer URL `github.com/enogrob/zoat`; the public repository address is `github.com/enogrob/project-zoat`. Do not publish a broken cover link or mistake an obsolete QR code for a working project link.
 
 ## References
 
