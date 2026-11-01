@@ -2,7 +2,7 @@
 
 # Project ZOAT
 
-**AI-Native Language for Intent-Oriented Programming (IOP)**
+**ZOAT — LLM-Native. Ruby-Powered. Rooted in David Bohm’s Implicate and Explicate Order. Grounded in HOLOFLUX.**
 
 > **Intention · Evolving Understanding · Coherent Realization**
 
