@@ -10,8 +10,6 @@ ZOAT is an **experimental, LLM-native semantic language** for Intent-Oriented Pr
 
 **Vision:** AI-native engineering driven by intention, evolving understanding, domain-specific knowledge, interactive refinement, and coherent realization.
 
-This is the **public-facing project**. It presents concepts, aspirations and selected capabilities without disclosing implementation details or presenting unverified language/runtime features as shipped functionality.
-
 ## Contents
 
 - [Overview](#overview)
@@ -26,15 +24,11 @@ This is the **public-facing project**. It presents concepts, aspirations and sel
 
 ZOAT places **intention at the center** of a semantic approach to AI-native work. Understanding can evolve as evidence, context, and questions change. Coherent realization seeks to preserve meaningful relationships between what is intended, what is understood, and what is expressed.
 
-The project explores a reusable semantic foundation across different subject areas; its public presentation emphasizes outcomes and interpretability rather than execution internals.
-
-## Visual labels
-
-The diagrams follow the functional concept identities in [`zoat-visual-mermaid`](https://github.com/enogrob/project-skills/blob/main/skills/zoat-visual-mermaid/SKILL.md#emoji--concept-identity) and [`zoat-visual-text`](https://github.com/enogrob/project-skills/blob/main/skills/zoat-visual-text/SKILL.md#emoji--concept-identity). Icons are editorial identifiers rather than ZOAT syntax or implementation guarantees. In particular, 📥 Implicate and 📤 Explicate are distinct movements, and 🌀 is reserved for COSMOS/Cosmic Cycles rather than Implicate.
+The project explores a reusable semantic foundation across different subject areas and applications.
 
 ## Concepts Map
 
-The diagram describes **conceptual relationships**, not a parser pipeline, autonomous agent architecture, or completed runtime.
+The diagram illustrates the conceptual relationships among ZOAT's core characteristics.
 
 ```mermaid
 %%{init: {"theme":"base","themeVariables":{"fontSize":"13px"},"flowchart":{"wrappingWidth":200,"minNodeWidth":0,"padding":8}}}%%
@@ -72,7 +66,7 @@ flowchart TD
 | **Extensible Domain Languages** | The semantic approach can be specialized for different knowledge domains. |
 | **Coherent Realization** | Understanding can inform explanations, artifacts, and other inspectable outcomes. |
 
-These are **design characteristics and research directions**, not a claim that all corresponding mechanisms are implemented and validated.
+These characteristics describe the project's design direction; individual capabilities remain experimental.
 
 ## Conceptual Architecture
 
@@ -107,18 +101,11 @@ flowchart TD
 
 **ZOAT** is the proposed semantic language for IOP. **HOLOFLUX** offers a complementary conceptual perspective on how meaning relates and unfolds between implicit understanding and explicit expression. **Cosmic Cycles** provides reusable, optional guidance for movements of understanding, realization, and reflection; it is not another mandatory stage, a storage model, or a replacement for HOLOFLUX.
 
-The relationships are conceptual. No diagram should be interpreted as proof of a running interpreter, automatic persistence, guaranteed verification, or a mandatory processing lifecycle.
+These diagrams illustrate conceptual relationships rather than a prescribed implementation or processing sequence.
 
 ## Scope and Status
 
-- **Public scope:** vision, concepts, distinctions, accessible explanations, and original presentation material.
-- **Experimental status:** semantic language proposals and research; maturity varies by capability.
-- **Not claimed:** production-ready runtime, universally executable syntax, automatic skill loading, verified long-term memory, or autonomous orchestration.
-- **Disclosure boundary:** technical experiments, private implementation notes, and unpublished specifications are not reproduced here.
-
-## Visual Identity
-
-The ZOAT presentation uses the **HOLOFLUX-inspired visual language** of luminous, interrelated flows. The public ZOAT cover is published above from `images/cover.webp`. The image currently contains the older footer URL `github.com/enogrob/zoat`; the public repository address is `github.com/enogrob/project-zoat`. Do not publish a broken cover link or mistake an obsolete QR code for a working project link.
+ZOAT is an **experimental semantic language project**. This public overview presents its vision, core concepts and intended characteristics. It does not imply a production-ready implementation or independently verified capabilities.
 
 ## References
 
@@ -130,4 +117,3 @@ The ZOAT presentation uses the **HOLOFLUX-inspired visual language** of luminous
 
 **Zoatworks — Turning Complexity into Understanding**
 
-_Public conceptual overview; not a statement of implementation completeness._
