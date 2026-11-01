@@ -26,24 +26,9 @@ ZOAT places **intention at the center** of a semantic approach to AI-native work
 
 The project explores a reusable semantic foundation across different subject areas; its public presentation emphasizes outcomes and interpretability rather than execution internals.
 
-## Semantic Visual Conventions
+## Visual labels
 
-The symbols below follow the documentation vocabulary in [`zoat-lang`](https://github.com/enogrob/project-skills/tree/main/skills/zoat-lang). They are **visual labels**, not executable language tokens or implementation claims.
-
-| Symbol | Concept |
-| --- | --- |
-| ✦ | ZOAT — AI-Native Language |
-| 🌊 | HOLOFLUX — relational unfolding |
-| 🎯 | INTENTION — purpose and direction |
-| 🌀 | IMPLICATE — contextual meaning and relations |
-| ✨ | EXPLICATE — inspectable expression |
-| ⚖️ | REFLECT — discernment and coherence |
-| 🧠 | UNDERSTAND — qualified understanding |
-| 🔎 | DEEP UNDERSTAND — bounded inquiry |
-| 🔄 | COSMIC CYCLES — optional movement guidance |
-| 📚 | KNOWLEDGE REUSE — context and sources |
-| 🧩 | DOMAIN LANGUAGES — specialization |
-| 💬 | INTERACTIVE MODE — conversational refinement |
+The diagram symbols below are **editorial choices used in this public README**, not a verified official mapping supplied by `zoat-lang`. A canonical visual vocabulary has not been established by the currently inspected skill material. Their labels and conceptual meanings remain authoritative regardless of the pictograms shown.
 
 ## Concepts Map
 
