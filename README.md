@@ -1,3 +1,5 @@
+![ZOAT — AI-Native Language](images/cover.webp)
+
 # Project ZOAT
 
 **AI-Native Language for Intent-Oriented Programming (IOP)**
@@ -116,7 +118,7 @@ The relationships are conceptual. No diagram should be interpreted as proof of a
 
 ## Visual Identity
 
-The ZOAT presentation uses the **HOLOFLUX-inspired visual language** of luminous, interrelated flows. The selected cover artwork is `infograph-zoat.webp`. Once the binary asset is successfully committed at `images/infograph-zoat.webp`, add its verified link as the README cover. The image currently contains the older footer URL `github.com/enogrob/zoat`; the public repository address is `github.com/enogrob/project-zoat`. Do not publish a broken cover link or mistake an obsolete QR code for a working project link.
+The ZOAT presentation uses the **HOLOFLUX-inspired visual language** of luminous, interrelated flows. The public ZOAT cover is published above from `images/cover.webp`. The image currently contains the older footer URL `github.com/enogrob/zoat`; the public repository address is `github.com/enogrob/project-zoat`. Do not publish a broken cover link or mistake an obsolete QR code for a working project link.
 
 ## References
 
