@@ -109,6 +109,8 @@ ZOAT is an **experimental semantic language project**. This public overview pres
 
 ## References
 
+**Conceptual foundations:** ZOAT draws inspiration from David Bohm's [*Wholeness and the Implicate Order* (1980)](https://www.routledge.com/Wholeness-and-the-Implicate-Order/Bohm/p/book/9780415289795) and from mathematical archetypes of nature—recurring patterns, symmetry, proportion, and relational structures. These influences inform the project's public perspective on wholeness and coherent meaning, without specifying internal algorithms or implementation mechanisms.
+
 - [Project HOLOFLUX — public conceptual foundation](https://github.com/enogrob/project-holoflux)
 - [ZOAT public repository](https://github.com/enogrob/project-zoat)
 - [Cosmic Cycles — reusable semantic guidance](https://github.com/enogrob/project-skills/tree/main/skills/zoat-cosmic-cycles)
