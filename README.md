@@ -2,7 +2,7 @@
 
 # Project ZOAT
 
-**ZOAT — LLM-Native. Ruby-Powered. Rooted in David Bohm’s Implicate and Explicate Order. Grounded in HOLOFLUX.**
+**ZOAT — LLM-Native. Ruby-Powered. Intent-Driven. Grounded in HOLOFLUX.**
 
 > **Intention · Evolving Understanding · Coherent Realization**
 
