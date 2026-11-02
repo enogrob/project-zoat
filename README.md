@@ -123,8 +123,6 @@ Mathematical archetypes, natural patterns, symmetry, geometry, and proportion.
 
 <br clear="all">
 
-**Conceptual relationship:** These are complementary intellectual inspirations for HOLOFLUX's relational perspective and ZOAT's exploration of coherent semantic expression—not evidence of technical implementation or scientific validation.
-
 - [Project HOLOFLUX — public conceptual foundation](https://github.com/enogrob/project-holoflux)
 - [ZOAT public repository](https://github.com/enogrob/project-zoat)
 
