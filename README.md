@@ -116,7 +116,6 @@ ZOAT is an **experimental semantic language project**. This public overview pres
 
 - [Project HOLOFLUX — public conceptual foundation](https://github.com/enogrob/project-holoflux)
 - [ZOAT public repository](https://github.com/enogrob/project-zoat)
-- [Cosmic Cycles — reusable semantic guidance](https://github.com/enogrob/project-skills/tree/main/skills/zoat-cosmic-cycles)
 
 ---
 
