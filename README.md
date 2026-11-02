@@ -107,10 +107,25 @@ ZOAT is an **experimental semantic language project**. This public overview pres
 
 ## References
 
-| Wholeness & unfolding | Mathematical patterns in nature |
-| :--- | :--- |
-| **David Bohm** · [*Wholeness and the Implicate Order* (1980)](https://www.routledge.com/Wholeness-and-the-Implicate-Order/Bohm/p/book/9780415289795) | **Michael S. Schneider** · [*A Beginner's Guide to Constructing the Universe* (1994)](https://books.google.com.br/books/about/A_Beginner_s_Guide_to_Constructing_the_U.html?id=3JwMAwAAQBAJ) |
-| <a href="https://www.routledge.com/Wholeness-and-the-Implicate-Order/Bohm/p/book/9780415289795"><img src="images/wholeness-and-the-implicate-order.jpg" alt="Cover of Wholeness and the Implicate Order by David Bohm" width="128" height="206"></a><br>Wholeness, interconnectedness, and the conceptual relationship between implicate and explicate order. | <a href="https://books.google.com.br/books/about/A_Beginner_s_Guide_to_Constructing_the_U.html?id=3JwMAwAAQBAJ"><img src="images/schneider-book-cover.jpg" alt="Cover of A Beginner’s Guide to Constructing the Universe by Michael S. Schneider" width="128" height="165"></a><br>Mathematical archetypes, natural patterns, symmetry, geometry, and proportion. |
+### Wholeness & unfolding
+
+<a href="https://www.routledge.com/Wholeness-and-the-Implicate-Order/Bohm/p/book/9780415289795"><img src="images/wholeness-and-the-implicate-order.jpg" alt="Cover of Wholeness and the Implicate Order by David Bohm" width="128" height="206" align="left" hspace="16"></a>
+
+**David Bohm** · [*Wholeness and the Implicate Order* (1980)](https://www.routledge.com/Wholeness-and-the-Implicate-Order/Bohm/p/book/9780415289795)
+
+Wholeness, interconnectedness, and the conceptual relationship between implicate and explicate order.
+
+<br clear="all">
+
+### Mathematical patterns in nature
+
+<a href="https://books.google.com.br/books/about/A_Beginner_s_Guide_to_Constructing_the_U.html?id=3JwMAwAAQBAJ"><img src="images/schneider-book-cover.jpg" alt="Cover of A Beginner’s Guide to Constructing the Universe by Michael S. Schneider" width="128" height="165" align="left" hspace="16"></a>
+
+**Michael S. Schneider** · [*A Beginner's Guide to Constructing the Universe* (1994)](https://books.google.com.br/books/about/A_Beginner_s_Guide_to_Constructing_the_U.html?id=3JwMAwAAQBAJ)
+
+Mathematical archetypes, natural patterns, symmetry, geometry, and proportion.
+
+<br clear="all">
 
 **Conceptual relationship:** These are complementary intellectual inspirations for HOLOFLUX's relational perspective and ZOAT's exploration of coherent semantic expression—not evidence of technical implementation or scientific validation.
 
