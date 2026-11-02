@@ -107,7 +107,7 @@ ZOAT is an **experimental semantic language project**. This public overview pres
 
 ## References
 
-<a href="https://www.routledge.com/Wholeness-and-the-Implicate-Order/Bohm/p/book/9780415289795"><img src="images/wholeness-and-the-implicate-order.jpg" alt="Cover of Wholeness and the Implicate Order by David Bohm" width="128" height="206" align="left" hspace="16"></a>
+- <a href="https://www.routledge.com/Wholeness-and-the-Implicate-Order/Bohm/p/book/9780415289795"><img src="images/wholeness-and-the-implicate-order.jpg" alt="Cover of Wholeness and the Implicate Order by David Bohm" width="128" height="206" align="left" hspace="16"></a>
 
 **David Bohm** · [*Wholeness and the Implicate Order* (1980)](https://www.routledge.com/Wholeness-and-the-Implicate-Order/Bohm/p/book/9780415289795)
 
@@ -115,7 +115,7 @@ Wholeness, interconnectedness, and the conceptual relationship between implicate
 
 <br clear="all">
 
-<a href="https://books.google.com.br/books/about/A_Beginner_s_Guide_to_Constructing_the_U.html?id=3JwMAwAAQBAJ"><img src="images/schneider-book-cover.jpg" alt="Cover of A Beginner’s Guide to Constructing the Universe by Michael S. Schneider" width="128" height="165" align="left" hspace="16"></a>
+- <a href="https://books.google.com.br/books/about/A_Beginner_s_Guide_to_Constructing_the_U.html?id=3JwMAwAAQBAJ"><img src="images/schneider-book-cover.jpg" alt="Cover of A Beginner’s Guide to Constructing the Universe by Michael S. Schneider" width="128" height="165" align="left" hspace="16"></a>
 
 **Michael S. Schneider** · [*A Beginner's Guide to Constructing the Universe* (1994)](https://books.google.com.br/books/about/A_Beginner_s_Guide_to_Constructing_the_U.html?id=3JwMAwAAQBAJ)
 
