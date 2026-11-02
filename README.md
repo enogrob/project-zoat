@@ -6,9 +6,7 @@
 
 > **Intention · Evolving Understanding · Coherent Realization**
 
-ZOAT is an **experimental, LLM-native semantic language** for Intent-Oriented Programming (IOP). It explores how intentions, context, evolving understanding, and domain-specific knowledge can be expressed in coherent, inspectable forms.
-
-**Vision:** AI-native engineering driven by intention, evolving understanding, domain-specific knowledge, interactive refinement, and coherent realization.
+ZOAT is an **experimental, LLM-native language** for Intent-Oriented Programming (IOP). It explores how intentions, context, evolving understanding, and domain-specific knowledge can be expressed in coherent, inspectable forms.
 
 ## Contents
 
